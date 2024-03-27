@@ -1,5 +1,5 @@
-# MobileApps
+# WalkerTracker
 
-This is a collection of Mobile Application projects developed for IOS using Swift 4 that documents learning different tools and techniques that can be applied to mobile develpment.
+This is the culmination of a personal learning project for developing a Swift iOS App which aims to assist an under-represented community by allowing them and their family to have more peace of mind regarding locating and navigating to their personal pharmacies.
 
-<b> Please check out the walkerTracker folder for a basic full implementation of these in a functional app. </b>
+<b> Please check out the walkerTracker folder for a basic full implementation in a functional app. </b>
